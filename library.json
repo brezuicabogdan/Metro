@@ -1,0 +1,11 @@
+{
+    "name": "Metro",
+    "keywords": "",
+    "description": "A library to make using WiFi & MQTT on the ESP8266 easy.",
+    "version": "1",
+    "examples": "examples/*/*.ino",
+    "frameworks": "arduino",
+    "platforms": [
+        "espressif"
+    ]
+}

@@ -1,13 +1,2 @@
-METRO
-=====================
-
-Metro works well, but this is the new version : https://github.com/SofaPirate/Chrono
-
-Metro library for Arduino or Wiring that facilitates the implementation of recurring timed events
-by Thomas Ouellet Fredericks
-with contributions from: Paul Bouchier and Benjamin.soelberg
-
-Download the latest version here : https://github.com/thomasfredericks/Metro-Arduino-Wiring/archive/master.zip
-
-Documentation can be found here : https://github.com/thomasfredericks/Metro-Arduino-Wiring/wiki
-
+This is a fork of teh original repo just modified the project structure to make it compatiblek with PlatformIO Library Manager
+Please visit https://github.com/thomasfredericks/Metro-Arduino-Wiring for latest code and documentation.
